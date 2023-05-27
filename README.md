@@ -1,10 +1,11 @@
 # To-Do App with React and Vite
 This is a simple to-do application built with React and Vite. It allows users to create, read,mark complete and delete tasks. The application is responsive and adapts to different screen sizes.
 
+## Open with the Link [GlowDo](https://gregarious-beijinho-10f0f2.netlify.app)
+
 ## Getting Started
 To get started with the application,there are two methods:
-* Open with the Link [Todo application](https://gregarious-beijinho-10f0f2.netlify.app)
-   or 
+
 + Follow the instructions below:
 
 1. Clone the repository to your local machine
