@@ -3,6 +3,11 @@ This is a simple to-do application built with React and Vite. It allows users to
 
 ## Open with the Link [GlowDo](https://gregarious-beijinho-10f0f2.netlify.app)
 
+## Demo
+Watch the video demo of the game:
+
+[![Watch the video](src/assets/demo-video.gif)]
+
 ## Getting Started
 To get started with the application,there are two methods:
 
