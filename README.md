@@ -6,7 +6,7 @@ This is a simple to-do application built with React and Vite. It allows users to
 ## Demo
 Watch the video demo of the game:
 
-[![Watch the video](src/assets/demo-video.gif)]
+[![Watch the video](demo-video.gif)]
 
 ## Getting Started
 To get started with the application,there are two methods:
